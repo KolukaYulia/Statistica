@@ -63,6 +63,7 @@
                         <configuration>
                             <rules>
                                 <rule>
+                                    <element>CLASS</element>
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
